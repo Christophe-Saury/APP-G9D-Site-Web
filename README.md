@@ -8,9 +8,9 @@ ambiant temperature, the humidity of the air, the ambiant noise and detect the p
 We were free to decide on the name of our company and of our product, we were also able to choose which sector we wanted to operate in.
 We decided to make sensors that would be sold to construction companies to be placed throughout the construction site.
 
-The website would be used by the construction company to manage it's worksites. The website was made to allow the company to have multiple work sites at the same time, 
+The website would be used by the construction company to manage its worksites. The website was made to allow the company to have multiple work sites at the same time, 
 assign personnel to each construction sites, show the temperature, humidity and noise for each worksite. Show the time under stress for a worker wearing the cardiac 
-sensor. The website assigns a danger level in case of a noise, temperature or heart frequence that has a too high value and lasts for too long. The website also 
+sensor. The website assigns a danger level in case of a noise, temperature or heart frequence that has too high a value for too long. The website also 
 includes a quiz that users have to take to get familiarized with safety regulations.
 
 
